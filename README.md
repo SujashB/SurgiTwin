@@ -1,6 +1,7 @@
 # SurgiTwin: AI-Powered Digital Twin for Robotic Surgery
 
-![Uploading ChatGPT Image Mar 5, 2026, 04_28_29 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Mar 5, 2026, 04_28_29 PM" src="https://github.com/user-attachments/assets/36b9854e-246b-4787-a157-14523bb6b307" />
+
 
 
 [![IsaacSim](https://img.shields.io/badge/IsaacSim-5.0.0-silver.svg)](https://docs.isaacsim.omniverse.nvidia.com/5.0.0/index.html)

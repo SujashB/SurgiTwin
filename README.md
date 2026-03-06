@@ -1,8 +1,7 @@
 # SurgiTwin: AI-Powered Digital Twin for Robotic Surgery
 
-<p align="center">
-  <img src="./docs/source/surgery.png" alt="SurgiTwin System" width="70%" />
-</p>
+![Uploading ChatGPT Image Mar 5, 2026, 04_28_29 PM.png…]()
+
 
 [![IsaacSim](https://img.shields.io/badge/IsaacSim-5.0.0-silver.svg)](https://docs.isaacsim.omniverse.nvidia.com/5.0.0/index.html)
 [![Cosmos](https://img.shields.io/badge/NVIDIA-Cosmos_Reason2--2B-76B900.svg)](https://nvidia-cosmos.github.io/cosmos-cookbook/)

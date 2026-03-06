@@ -203,7 +203,7 @@ Isaac Sim                  Orchestrator                 Frontend
 
 ### Startup (4 Terminals)
 
-**Terminal 1 — vLLM (Cosmos Reason2, 4-bit quantized)**
+**Terminal 1 — vLLM (Cosmos Reason2, 2-bit quantized)**
 ```bash
 vllm serve nvidia/Cosmos-Reason2-2B \
   --quantization bitsandbytes --load-format bitsandbytes \
